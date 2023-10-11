@@ -2,13 +2,16 @@
 
 # Description
 
-This JavaScript and node.js application allows users to create and save notes containing a title and a text body.
+This JavaScript, express, and node.js application allows users to create and save notes containing a title and a text body.
 
 To use this application, navigate to the website using the link below, click "Get Started" and go to the main note taking application page. Then input a title and text body for a note that you would like to save. Click the save button icon in the top right corner to save the note. Click the plus button to create a new note.
 
 If you would like to delete a note from your memory, click the red trash icon next to the note.
 
 # Screenshot
+
+<img width="1470" alt="Screenshot 2023-10-11 at 3 36 05 PM" src="https://github.com/tmcmanus95/Note-Taker-Application/assets/122508345/c839c6bd-e36c-4637-9dfa-154f0e4ce454">
+<img width="1470" alt="Screenshot 2023-10-11 at 3 35 54 PM" src="https://github.com/tmcmanus95/Note-Taker-Application/assets/122508345/db56e13b-04b4-4f0e-8ebb-9728b1198e51">
 
 # Application Link
 
