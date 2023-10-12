@@ -15,7 +15,7 @@ If you would like to delete a note from your memory, click the red trash icon ne
 
 # Application Link
 
-https://agile-crag-27678-deafe07f362c.herokuapp.com/notes
+https://agile-crag-27678-deafe07f362c.herokuapp.com/
 
 # Contributions
 
