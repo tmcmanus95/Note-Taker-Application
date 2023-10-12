@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 const notesDb = require("./db/db");
-const { appendNote, readNote } = require("./helpers/fsFunctions");
+const { appendNote, readNote, writeNote } = require("./helpers/fsFunctions");
 const uuid = require("./helpers/uuid");
 const PORT = process.env.port || 3001;
 
